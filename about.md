@@ -17,3 +17,4 @@ The name label is re-centered precisely by measuring the real width of each glyp
 
 - Only you see it; everyone else still sees your real name.
 - It does not change your account's real name.
+- Can conflict with other mods that change these labels.
