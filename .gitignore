@@ -1,0 +1,14 @@
+build/
+build-*/
+cmake-build-*/
+out/
+.vs/
+.vscode/
+*.geode
+*.so
+*.dll
+*.dylib
+*.obj
+*.o
+CMakeCache.txt
+CMakeFiles/

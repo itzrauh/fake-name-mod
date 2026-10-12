@@ -1,0 +1,30 @@
+{
+	"geode": "5.11.1",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "itzrauh.fake-name",
+	"name": "Fake Name",
+	"version": "v1.0.0",
+	"developer": "itzrauh",
+	"description": "Shows a local, client-side fake name instead of yours on the main menu, profile, comments and leaderboards.",
+	"tags": ["customization", "interface", "offline"],
+	"links": {
+		"source": "https://github.com/itzrauh/fake-name-mod"
+	},
+	"issues": {
+		"info": "Report bugs and suggestions on GitHub.",
+		"url": "https://github.com/itzrauh/fake-name-mod/issues"
+	},
+	"settings": {
+		"fake-name": {
+			"type": "string",
+			"name": "Fake Name",
+			"description": "The name that will be shown instead of yours.",
+			"default": "Fake Nick"
+		}
+	}
+}
